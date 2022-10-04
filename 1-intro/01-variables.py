@@ -45,4 +45,4 @@ print(age)
 address: str = "Mi direccion"
 address = 32
 print(type(address))
-# no igual se puede cambiar facilmente
+# no, igual se puede cambiar facilmente
